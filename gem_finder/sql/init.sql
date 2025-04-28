@@ -1,0 +1,2 @@
+CREATE DATABASE gem_finder
+OWNER n8n;
